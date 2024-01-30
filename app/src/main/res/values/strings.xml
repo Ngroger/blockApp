@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BlockApp</string>
+    <string name="accessibility_service_label">Block App Permission</string>
+    <string name="accessibility_service_description">System permission for using in BlockApp</string>
+</resources>
